@@ -1,0 +1,4 @@
+name: evocateur dot org
+markdown: redcarpet
+pygments: true
+permalink: pretty
